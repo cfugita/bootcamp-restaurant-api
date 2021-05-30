@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "orders": [{
+      "id": 1,
+      "tableId": 1,
+      "dishes": [{
+        "id": 1,
+        "price": 100.0,
+        "description": "Salad",
+        "quantity": 2
+      },
+      {
+        "id": 2,
+        "price": 150.0,
+        "description": "Something else",
+        "quantity": 3
+      }]
+    },
+    {
+      "id": 2,
+      "tableId": 1,
+      "dishes": [{
+        "id": 3,
+        "price": 23.0,
+        "description": "Popcorn",
+        "quantity": 1
+      },
+        {
+          "id": 4,
+          "price": 45.0,
+          "description": "Pasta",
+          "quantity": 2
+        }]
+    }]
+  },
+  {
+    "id": 2,
+    "orders": [{
+      "id": 2,
+      "tableId": 2,
+      "dishes": [{
+        "id": 2,
+        "price": 100.0,
+        "description": "Something else",
+        "quantity": 2
+      }]
+    }]
+  }]
